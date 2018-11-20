@@ -6,4 +6,4 @@ install:
   - echo "testing install step"
 
 script:
-  - echo "testing install step"
+  - echo "testing script step"
