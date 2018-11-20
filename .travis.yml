@@ -1,0 +1,9 @@
+language: node_js
+node_js: 
+  - "lts/*"
+
+install:
+  - echo "testing install step"
+
+script:
+  - echo "testing install step"
