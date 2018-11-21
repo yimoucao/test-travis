@@ -5,8 +5,8 @@ language: node_js
 node_js: 
   - "lts/*"
 
-pre-install:
-  - echo "pre install step"
+before_install:
+  - echo "before install step"
   - pwd
   - ls
 
