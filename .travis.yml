@@ -1,3 +1,6 @@
+# os environment part
+
+# application environment part
 language: node_js
 node_js: 
   - "lts/*"
@@ -7,3 +10,5 @@ install:
 
 script:
   - echo "testing script step"
+  - pwd
+  - ls
