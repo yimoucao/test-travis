@@ -1,0 +1,10 @@
+# files to ignore
+.vscode/
+build/
+node_modules/
+__pycache__/
+*log
+Dockerfile
+*Docker*
+*docker*
+
